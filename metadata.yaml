@@ -1,0 +1,29 @@
+_repo: '---_25167'
+_version: 0.1.0
+alternative_title: Sima Fa
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sima, Rangju, active 4th century B.C.
+    aliases:
+    - Ssu-ma, Jang-chü
+    - Ssu-ma, Jang-chu
+    - 司馬穰苴
+    gutenberg_agent_id: '31117'
+    url: http://www.gutenberg.org/2009/agents/31117
+description: ''
+gutenberg_issued: '2008-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25167'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Military art and science -- Early works to 1800'
+title: 司馬法
+url: http://www.gutenberg.org/ebooks/25167
